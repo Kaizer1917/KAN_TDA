@@ -147,7 +147,7 @@ moving_avg: int = 25           # Moving average window
 ## 📁 Project Structure
 
 ```
-KAN_TDA-main/
+KAN_TDA/
 ├── models/
 │   └── KAN_TDA.py              # Main model architecture
 ├── layers/
