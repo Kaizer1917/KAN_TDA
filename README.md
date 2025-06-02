@@ -7,7 +7,7 @@
   [![PyTorch](https://img.shields.io/badge/PyTorch-1.13+-red.svg)](https://pytorch.org/)
   [![TDA](https://img.shields.io/badge/TDA-Integrated-green.svg)](https://en.wikipedia.org/wiki/Topological_data_analysis)
   
-  **Official implementation with comprehensive TDA integration for long-term time series forecasting**
+  **Official implementation with comprehensive TDA integration for long-term time series forecasting(the paper will be published soon)**
 </div>
 
 ---
