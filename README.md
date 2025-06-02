@@ -1,13 +1,11 @@
 # KAN_TDA: Advanced Topological Data Analysis Enhanced KAN Architecture
 
 <div align="center">
-  <h2><b>🚀 KAN_TDA: KAN-based Frequency Decomposition Learning Architecture with Advanced Topological Data Analysis Integration</b></h2>
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
   [![PyTorch](https://img.shields.io/badge/PyTorch-1.13+-red.svg)](https://pytorch.org/)
   [![TDA](https://img.shields.io/badge/TDA-Integrated-green.svg)](https://en.wikipedia.org/wiki/Topological_data_analysis)
-  [![Tests](https://img.shields.io/badge/Tests-24/24_Passing-brightgreen.svg)](./tests/)
   
   **Official implementation with comprehensive TDA integration for long-term time series forecasting**
 </div>
